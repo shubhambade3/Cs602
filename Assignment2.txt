@@ -1,0 +1,36 @@
+Assignment 2
+
+TWO-PASS ASSEMBLER – IA-32 (32-BIT x86) INSTRUCTION FORMAT SPECIFICATION.
+89 mov 2 mem reg n -1
+8B mov 2 reg mem n -1
+B8 mov 2 reg imm n +rd
+C7 mov 2 mem imm y 0
+3D cmp 2 eax imm n -1
+81 cmp 2 mem imm y 7
+39 cmp 2 mem reg n -1
+3B cmp 2 reg mem n -1
+05 add 2 eax imm n -1
+81 add 2 mem imm y 0
+01 add 2 mem reg n -1
+03 add 2 reg mem n -1
+2D sub 2 eax imm n -1
+81 sub 2 mem imm y 5
+29 sub 2 mem reg n -1
+2B sub 2 reg mem n -1
+35 xor 2 eax imm n -1
+81 xor 2 mem imm y 6
+31 xor 2 mem reg n -1
+33 xor 2 reg mem n -1
+
+Repo link :
+https://github.com/shubhambade3/Cs602
+
+Members :
+Shubham Bade - 25111006
+https://github.com/shubhambade3
+
+Om patil - 25111043
+https://github.com/ompatil6212-dev
+
+Shubham Ishware - 25111022
+https://github.com/Shubham01432
